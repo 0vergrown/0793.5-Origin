@@ -1,0 +1,5 @@
+{
+    "name": "Unwieldy",
+    "description": "You are unable to use shields.",
+    "type": "origins:simple"
+}

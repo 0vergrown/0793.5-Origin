@@ -1,0 +1,15 @@
+{
+	"name": "Lightning Death",
+	"description": "You take double damage from lightning.",
+	"type": "origins:modify_damage_taken",
+	"damage_condition": 
+	{
+		"type": "origins:name",
+		"name": "lightningBolt"
+	},
+	"modifier":
+	{
+		"operation": "multiply_base",
+		"value": 3
+	}
+}

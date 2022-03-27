@@ -1,0 +1,30 @@
+{
+	"powers": [
+		"origins:no_cobweb_slowdown",
+		"07935:climb",
+		"07935:master_of_webs",
+		"07935:poison_diet",
+		"07935:fast_break",
+		"07935:light_body",
+		"07935:invisible",
+		"07935:pounce",
+		"origins:scare_creepers",
+		"07935:vision_in_the_dark",
+		"07935:vision",
+		"07935:short",
+		"07935:high_jump",
+		"07935:speed",
+		"07935:fragile",
+		"07935:exhaustion",
+		"07935:ender_sight",
+		"07935:unwieldy",
+		"07935:playing_god",
+		"07935:explohurt",
+		"07935:explohurt2"
+	],
+	"icon": "minecraft:black_wool",
+	"order": 10,
+	"impact": 3,
+	"name": "0793.5",
+	"description": "All that time you have spent with the Gods has payed off, you are slightly better now, and the pure essence of hate you feel has decreased."
+}

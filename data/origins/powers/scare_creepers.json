@@ -1,0 +1,8 @@
+{
+  "name": "Scare",
+  "description": "Creepers fear you.",
+  "type": "origins:simple",
+  "hidden": true,
+  "loading_priority": 3
+
+}
