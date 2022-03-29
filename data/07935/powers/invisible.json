@@ -22,7 +22,7 @@
             "effect": "minecraft:invisibility"
         }
     },
-    "cooldown": 0,
+    "cooldown": 1,
     "hud_render": {
         "should_render": false
     },
